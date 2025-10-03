@@ -1,5 +1,0 @@
-# Default owner
-config/brakeman.ignore  @IDme/application-security
-.truffleignore          @IDme/application-security
-.trivyignore            @IDme/application-security
-*                       @IDme/team-mobile
